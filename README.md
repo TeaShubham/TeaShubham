@@ -1,12 +1,12 @@
 - # Hello, I'm TeaShubham! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for creating robust and intuitive applications using Java. I'm also experienced in web development and familiar with a range of technologies.
+Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for creating robust and intuitive applications using Javascript frameworks. I'm also experienced in web development and familiar with a range of technologies.
 
 ## 🚀 About Me
 
 - **🌱 Currently learning:** Exploring the latest trends in Android development and deepening my knowledge of full-stack web development.
-- **🔭 Looking to collaborate on:** Exciting Android projects and innovative web applications.
-- **💬 Ask me about:** Android development, Java programming, web technologies, or anything tech-related!
+- **🔭 Looking to collaborate on:** Exciting projects and innovative web applications.
+- **💬 Ask me about:** Frontend development, web technologies, or anything tech-related!
 
 ## 🛠️ Technologies & Tools
 
