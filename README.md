@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hello, I'm TeaShubham!</h1>
 <p align="center">
-  🚀 Full-Stack Developer | ⚛️ React & GenAI Enthusiast | 🧠 RAG Explorer
+  🚀 Full-Stack Developer | ⚛️ React & GenAI Enthusiast | 🧠 RAG & Domain-Driven Solutions Explorer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 **Currently Learning:** Retrieval-Augmented Generation (RAG), Generative AI applications, and scalable Next.js architectures  
-- 🔭 **Open to Collaborate:** On AI-powered apps, full-stack web platforms, or research-based projects  
-- 💬 **Ask Me About:** JavaScript, React, Next.js, Tailwind CSS, or building with GenAI  
+- 🌱 **Currently Learning:** Retrieval-Augmented Generation (RAG), Generative AI applications, Domain-Driven Design (DDD), and scalable Next.js architectures  
+- 🔭 **Open to Collaborate:** On AI-powered apps, domain-driven systems, full-stack web platforms, or research-based projects  
+- 💬 **Ask Me About:** JavaScript, React, Next.js, Tailwind CSS, GenAI, or Domain-Driven Solutions  
 - 📫 **Reach Me At:** [thangeshubham7276@gmail.com](mailto:thangeshubham7276@gmail.com)
 
 ---
@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/RAG-%234B8BBE?style=flat&logo=semantic-web&logoColor=white" />
 </p>
 
+### 🧭 Architecture & Methodologies
+<p>
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-6A5ACD?style=flat&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat&logo=architecture&logoColor=white" />
+</p>
+
 ### 🧰 Tools & Environments
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -42,7 +48,11 @@
 
 ## 📂 Featured Projects
 
-> 💡 Dive into my repos to see AI-powered prototypes, full-stack builds with React & Next.js, and creative experiments with GenAI.
+> 💡 Explore my repositories to find:
+> - ✨ AI-powered prototypes using GenAI + RAG  
+> - ⚙️ Full-stack platforms built with React, Next.js, and Tailwind  
+> - 🧠 Domain-driven solutions applying real-world DDD principles  
+> - 🔬 Scalable architectures using Clean Code & DDD
 
 ---
 
