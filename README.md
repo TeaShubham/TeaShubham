@@ -22,7 +22,7 @@ I'm a passionate full-stack developer who loves building **scalable web apps** a
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-008080?style=flat&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
@@ -35,18 +35,18 @@ I'm a passionate full-stack developer who loves building **scalable web apps** a
   <img src="https://img.shields.io/badge/Web_API-007ACC?style=flat&logo=webhook&logoColor=white" />
 </p>
 
-### 🤖 AI & GenAI Tools
-<p>
-  <img src="https://img.shields.io/badge/GenAI-%23667EEA?style=flat&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-%234B8BBE?style=flat&logo=semantic-web&logoColor=white" />
-</p>
-
-### 🧭 Architecture & Patterns
+### 🏗️ Architecture & Patterns
 <p>
   <img src="https://img.shields.io/badge/Repository_Pattern-FF6F61?style=flat&logo=repository&logoColor=white" />
   <img src="https://img.shields.io/badge/Unit_of_Work-4CAF50?style=flat&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-Driven_Design-6A5ACD?style=flat&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat&logo=architecture&logoColor=white" />
+</p>
+
+### 🤖 AI & GenAI Tools
+<p>
+  <img src="https://img.shields.io/badge/GenAI-%23667EEA?style=flat&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-%234B8BBE?style=flat&logo=semantic-web&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Environments
@@ -64,8 +64,8 @@ I'm a passionate full-stack developer who loves building **scalable web apps** a
 > 💡 Explore my repositories to find:
 > - 🖥️ Full-stack web apps using **.NET Core MVC + React/Next.js + Tailwind**  
 > - ⚙️ **Web APIs** with SQL Server, Repository & Unit of Work patterns  
-> - 🤖 **AI & GenAI prototypes** leveraging RAG for smarter solutions  
-> - 🧠 **Domain-driven designs** with Clean Architecture principles  
+> - 🧩 **Domain-driven designs** with Clean Architecture principles  
+> - 🤖 AI & GenAI prototypes leveraging **RAG** for smarter solutions  
 > - 🔬 Scalable and maintainable enterprise-grade systems  
 
 ---
